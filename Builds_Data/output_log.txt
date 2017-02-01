@@ -1,0 +1,52 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.082 seconds
+Platform assembly: D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Study\Unity\Projects\BlockBreaker\Builds_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.810153 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.455736 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 0.156869 ms (FindLiveObjects: 0.026570 ms CreateObjectMapping: 0.010986 ms MarkObjects: 0.110115 ms  DeleteObjects: 0.008431 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.197748 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 255.
+Total: 0.156358 ms (FindLiveObjects: 0.012518 ms CreateObjectMapping: 0.007153 ms MarkObjects: 0.106794 ms  DeleteObjects: 0.029636 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.204646 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 0.142307 ms (FindLiveObjects: 0.014307 ms CreateObjectMapping: 0.007664 ms MarkObjects: 0.117524 ms  DeleteObjects: 0.002554 ms)
+
+Someone wants to quit the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3334 -> priority: 1 
+  Thread -> id: b1c -> priority: 1 
